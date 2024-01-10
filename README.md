@@ -1,3 +1,5 @@
+https://ritayang0811.github.io/week2-PersonalWebsite/
+
 # 網頁切版直播班 Vite 範例
 
 ## Node.js 版本
